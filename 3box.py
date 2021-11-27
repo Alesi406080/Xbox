@@ -74,7 +74,7 @@ def pil():
                 print GG+" "
                 g = str(raw_input("[?] Hack Fb lagi..\033[93;1m[y/n]: "))
                 if g == 'y' or g == 'Y':
-                    os.system('python2 brute.py')
+                    os.system('python2 3box.py')
                 elif g == 'n' or g == 'N':
                     print wd+"Keluar dari program..."
                     sys.exit()
@@ -173,8 +173,8 @@ def runn_noobs():
               `-/+///..````..://+/-`
                   `.-::////::-.` \033[91;1m
 
-                \033[90;1mLife Of Programmer\033[91;1m
-             Powered by:\033[97m MR.K7C8NG
+                \033[90;1MBLACK CAT\033[91;1m
+             Powered by:\033[97m MR.SHAHID
       """
 
 
